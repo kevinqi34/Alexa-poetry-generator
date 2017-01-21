@@ -14,7 +14,7 @@ function get_input() {
   $('#enter').click(function() {
     // Get Data
     var topic = $("#topic").val();
-    console.log(topic);
+    get_poem(topic);
 
   });
 
