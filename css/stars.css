@@ -3,6 +3,7 @@ html {
   background: radial-gradient(ellipse at bottom, #1b2735 0%, #090a0f 100%);
   overflow: hidden;
   font-family: "lato", sans-serif;
+  text-align: center;
 }
 
 #stars {

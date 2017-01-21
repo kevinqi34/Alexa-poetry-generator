@@ -3,6 +3,8 @@ $( document ).ready(function() {
   typing();
   // Grabs Input
   get_input();
+  // Return Button
+  return_button();
 
 
 });

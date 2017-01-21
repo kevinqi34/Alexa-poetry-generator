@@ -17,9 +17,6 @@
 <body>
 <!-- Background -->
 <div id="stars"></div>
-<div id="star2"></div>
-<div id="star3"></div>
-
 <!-- Input -->
 <div id="title">
 <h1>Alexa the Poet</h1>
@@ -28,11 +25,19 @@
   <input type="text" class="form-control" id="topic" placeholder=""/>
   <button id="enter" type="button" class="btn btn-default">Enter</button>
 </div>
+<p id="error"></p>
 </div>
 
 
+<!-- Output -->
+<div id="poem">
+  <h3 id="return_button"><img src="../images/reply.png" />Go Back</h3>
+  <h2 id="poem_title"></h2>
+  <h3 id="poem_author"></h3>
+  <div id= "lines">
 
 
-
+  </div>
+</div>
 </body>
 </html>
