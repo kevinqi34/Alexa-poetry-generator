@@ -1,0 +1,57 @@
+#topic::-webkit-input-placeholder {
+   color: white;
+}
+
+#topic:-moz-placeholder { /* Firefox 18- */
+   color: white;
+}
+
+#topic::-moz-placeholder {  /* Firefox 19+ */
+   color: white;
+}
+
+#topic:-ms-input-placeholder {
+   color: white;
+}
+
+body {
+  margin: 0px;
+  padding: 0px;
+
+}
+
+
+#title p {
+  margin-top: 0px;
+
+}
+
+div.form-group {
+  width: 300px;
+  margin: auto;
+
+
+}
+
+#topic {
+  width: 225px;
+  background-color: transparent;
+  font-size: 20px;
+  position: relative;
+  color: white;
+  float: left;
+  margin: 0px;
+
+}
+
+#enter {
+  background-color: transparent;
+  color: white;
+
+
+}
+
+#enter:hover {
+  color: skyblue;
+
+}
