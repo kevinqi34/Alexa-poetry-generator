@@ -3,6 +3,7 @@
 <html>
 <head>
 <title>Alexa the Poet</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <?php include ($_SERVER['DOCUMENT_ROOT'] ."/template/head.php"); ?>
 <!-- CSS Sheets -->
 <link rel="stylesheet" href="<?php echo url(); ?>css/stars.css">
