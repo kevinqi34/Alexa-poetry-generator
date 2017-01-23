@@ -2,7 +2,7 @@
 function typing() {
   $(function(){
           $("#topic").typed({
-          strings: ["Love", "Death","War","time"],
+          strings: ["Love", "Death","War","Time"],
           typeSpeed: 10,
           loop: true,
           });
